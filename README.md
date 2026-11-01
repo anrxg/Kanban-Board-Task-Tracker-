@@ -2,6 +2,10 @@
 
 A simple and interactive Kanban task management board built using HTML, CSS, and JavaScript. Organize your tasks, track your progress, and move tasks between different stages using drag-and-drop functionality.
 
+![Image Editor Preview](./ss1.png)
+![Image Editor Preview](./ss2.png)
+![Image Editor Preview](./ss3.png)
+
 ## ✨ Features
 
 - **➕ Add Tasks:** Create tasks with a title and description.
